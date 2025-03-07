@@ -57,12 +57,7 @@ const sidebars = {
     },
     {
       type: "category",
-      label: "Guidelines",
-      items: []
-    },
-    {
-      type: "category",
-      label: "Guides limits",
+      label: "Guides",
       items: [
         {
           type: "doc",

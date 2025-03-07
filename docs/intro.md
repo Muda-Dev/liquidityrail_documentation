@@ -2,22 +2,26 @@
 sidebar_position: 1
 ---
 
-# BavaPay OpenAPIs
+# Liquidity Rail Open APIs
 
 ## Introduction
 
-This documentation presents all the service APIs that BavaPay makes available.
+The liquidity rail is a platform that enables users to easily convert stablecoins to fiat currency through an easy seamless and simple process. Our mission is to revolutionize cross-border payments and provide a robust solution for both individuals and enterprises.
 
-They cover our **Push Payments**, **Pull Payments**, and **Multi-Currency Payment Solutions** across East Africa.
+This documentation presents all the service APIs that MUDA Liquidity Rail makes available.
 
----
+The Rail Bridge Server is a a system that allows liqudity rail providers to listen for blockchain transactions and execute payouts when payments are received. Providers run the Rail server to monitor blockchain activity, and when a transaction reaches their address, they confirm it and process a fiat payout.
 
-## Authentication
+The system operates on multiple networks and supports various assets, making it a robust decentralized financial infrastructure for automated cross-chain payouts.
 
-The Auth Token method is used to authenticate a client to the Bavana platform. The client provides their secret key and API key to receive an access token. This token is used for subsequent requests to the platform.
+## Supported Blockchains & Assets
 
-All requests require this token to be sent in the header in the following format:
+The system operates on the following blockchain networks:
 
-```http
-Authorization: Bearer {token}
-```
+- Stellar - USDC, CNGN
+- Celo - CUSD
+- Tron - USDT
+- Binance Smart Chain (BSC) - CNGN
+- Bantu Blockchain - CNGN
+
+You can configure the default blockchain in the .env file or set it to 0 to support all chains.

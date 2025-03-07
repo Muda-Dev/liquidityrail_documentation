@@ -8,7 +8,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://bava-doc.netlify.app/',
+  url: 'https://docs.liqudityrail.com/',
   baseUrl: '/',
 
   // GitHub pages deployment config.
@@ -42,7 +42,7 @@ const config = {
   ],
 
   themeConfig: {
-    image: 'https://bavagroup.com/images/logo-sm.svg',
+    image: 'https://liquidityrail.com/assets/images/muda-liquidity-rail.png',
     navbar: {
       title: 'Home',
       logo: {
