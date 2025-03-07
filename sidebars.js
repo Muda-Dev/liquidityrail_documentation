@@ -14,22 +14,17 @@ const sidebars = {
       items: [
         {
           type: "doc",
-          id: "3",
+          id: "overview",
           label: "Overview"
         },
         {
-          type: "doc",
-          id: "4",
+          type:  "doc",
+          id:    "environmental-setup",
           label: "Environmental Setup"
         },
         {
-          type: "doc",
-          id: "5",
-          label: "Installation"
-        },
-        {
-          type: "doc",
-          id: "6",
+          type:  "doc",
+          id:    "configurations",
           label: "Configuration"
         }
       ]
@@ -40,64 +35,39 @@ const sidebars = {
       items: [
         {
           type: "doc",
-          id: "3",
+          id: "register-as-provider",
           label: "Becoming a Provider"
         },
         {
           type: "doc",
-          id: "3",
+          id: "provider-authentication",
           label: "Authentication"
         },
         {
           type: "doc",
-          id: "3",
+          id: "provider-settings",
           label: "Settings"
         }
       ]
     },
     {
       type: "category",
-      label: "Guides",
+      label: "Clients",
       items: [
         {
           type: "doc",
-          id: "3",
-          label: "Accounts"
+          id: "client-registration",
+          label: "Registration"
         },
         {
           type: "doc",
-          id: "4",
-          label: "Payments"
+          id: "client-authentication",
+          label: "Authentication"
         },
         {
           type: "doc",
-          id: "5",
-          label: "Get Transaction By ID"
-        },
-        {
-          type: "doc",
-          id: "6",
-          label: "Get Balance"
-        },
-        {
-          type: "doc",
-          id: "7",
-          label: "Confirm Push"
-        },
-        {
-          type: "doc",
-          id: "8",
-          label: "Complete Pull"
-        },
-        {
-          type: "doc",
-          id: "9",
-          label: "Get Statement"
-        },
-        {
-          type: "doc",
-          id: "10",
-          label: "Get Transaction By Reference ID"
+          id: "client-settings",
+          label: "Settings"
         }
       ]
     }
