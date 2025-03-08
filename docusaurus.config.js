@@ -8,8 +8,8 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://liquidityrail.netlify.app/',
-  baseUrl: '/my-docs/',
+  url: 'https://liquidityrail.netlify.app',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   organizationName: 'bava',
