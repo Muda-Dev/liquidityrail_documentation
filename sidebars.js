@@ -70,6 +70,22 @@ const sidebars = {
           label: "Settings"
         }
       ]
+    },
+    {
+      type: "category",
+      label: "Guides",
+      items: [
+        {
+          type: "doc",
+          id: "accounts",
+          label: "Accounts"
+        },
+        {
+          type: "doc",
+          id: "payments",
+          label: "Payments"
+        }
+      ]
     }
   ]
 };
