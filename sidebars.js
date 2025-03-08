@@ -26,6 +26,11 @@ const sidebars = {
           type:  "doc",
           id:    "configurations",
           label: "Configuration"
+        },
+        {
+          type:  "doc",
+          id:    "getting-started",
+          label: "Quickstart"
         }
       ]
     },
@@ -42,11 +47,6 @@ const sidebars = {
           type: "doc",
           id: "provider-authentication",
           label: "Authentication"
-        },
-        {
-          type: "doc",
-          id: "provider-settings",
-          label: "Settings"
         }
       ]
     },
@@ -63,11 +63,6 @@ const sidebars = {
           type: "doc",
           id: "client-authentication",
           label: "Authentication"
-        },
-        {
-          type: "doc",
-          id: "client-settings",
-          label: "Settings"
         }
       ]
     },
@@ -75,6 +70,11 @@ const sidebars = {
       type: "category",
       label: "Guides",
       items: [
+        {
+          type: "doc",
+          id: "settings",
+          label: "Settings"
+        },
         {
           type: "doc",
           id: "accounts",
