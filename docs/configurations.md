@@ -36,3 +36,9 @@ The `.env` file must be present in the working directory and should contain the 
 
 ### Supported Assets
 `SUPPORTED_ASSETS=["USDT", "USDC", "CNGN"]`
+
+
+### 
+```json
+  https://rail.stage-mudax.xyz/accounts/register
+```
