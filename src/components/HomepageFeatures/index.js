@@ -8,8 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Send money to bank accounts and mobile wallets instantly, 
-        ensuring fast and secure borderless cash transfers.
+        Send money instantly to bank accounts and mobile wallets with secure, borderless transactions. Our blockchain-powered platform ensures low fees, real-time settlements, and global access.
       </>
     ),
   },
@@ -18,9 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Providing an online ramp that allows users to sell 
-        crypto and receive fiat (UGX, KES, GHS, NGN etc.) in 
-        their bank account or other mobile money.
+        The Liquidity Rail provides an online ramp for users to seamlessly sell crypto and receive fiat (UGX, KES, GHS, NGN, etc.) directly in their bank accounts or mobile money wallets. 
       </>
     ),
   },
@@ -29,8 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        The Liquidity rail works with multiple assets of a number of blockchains and currencies including 
-        Stellar - USDC, CNGN, Celo - CUSD, Tron - USDT, Binance Smart Chain (BSC) - CNGN, Bantu Blockchain - CNGN, KES, UGX, ZAR
+        The Liquidity Rail facilitates seamless transactions across multiple blockchains and currencies, including Stellar (USDC, CNGN), Celo (CUSD), Tron (USDT), BSC (CNGN), and Bantu Blockchain (CNGN, KES, UGX, ZAR).
       </>
     ),
   },
