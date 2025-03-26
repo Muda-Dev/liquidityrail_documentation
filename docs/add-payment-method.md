@@ -4,7 +4,7 @@ title: Add Payment Method
 ---
 
 ### Add payment method 
-This endpoint adds a payment method
+Add a payment method
 
 ### Request
 Method: POST

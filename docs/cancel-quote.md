@@ -4,7 +4,7 @@ title: Cancel Quote
 ---
 
 ### Get payment transaction 
-This endpoint cancels a quote.
+Cancel a quote request.
 
 ### Request
 Method: GET

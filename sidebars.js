@@ -82,11 +82,6 @@ const sidebars = {
             },
             {
               type: "doc",
-              id: "get-quote",
-              label: "Get Quote"
-            },
-            {
-              type: "doc",
               id: "get-rate",
               label: "Get Rate"
             },

@@ -4,7 +4,7 @@ title: Get Rate
 ---
 
 ### Get rate request
-This endpoint get the exchange rate of a given amount 
+Get currency pairs exchange rate.
 
 ### Request
 

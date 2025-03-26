@@ -16,7 +16,7 @@ function HomepageHeader() {
           MUDA Liquidity Rail
         </Heading>
         <p className="hero__subtitle">
-        The liquidity rail is a platform that enables users to easily convert stablecoins to fiat currency through an easy seamless and simple process. Our mission is to revolutionize cross-border payments and provide a robust solution for both individuals and enterprises.
+          The Liquidity Rail is a platform that enables users to easily convert stablecoins to fiat currency through a seamless and simple process. Our mission is to revolutionize cross-border payments and provide a robust solution for both individuals and enterprises.
         </p>
         <div className={styles.buttons}>
           <Link

@@ -3,16 +3,14 @@ id: get-providers
 title: Get Providers
 ---
 
-
 ### Get payment transaction 
-This endpoint get providers
+Get a list of available service providers.
 
 ### Request
 Method: POST
 ```json
   {{URL}}/accounts/provider
 ```
-
 #### Body raw (json)
 ```json
  {

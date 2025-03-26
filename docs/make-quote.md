@@ -4,10 +4,9 @@ title: Make Quote
 ---
 
 ### Make a quote request
-This endpoint to make a payment quote.
+Transaction Quote Request
 
 ### Request
-
 Method: POST
 ```json
   {{URL}}/accounts/getInvoice

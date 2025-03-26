@@ -4,7 +4,7 @@ title: Get Payout Transaction
 ---
 
 ### Get payment transaction 
-This endpoint retrieves a tranaction's details.
+Get the transaction details.
 
 ### Request
 Method: GET
